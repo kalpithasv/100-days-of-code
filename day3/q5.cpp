@@ -1,4 +1,3 @@
-//count the number of vowels and consonants in string
 #include <iostream>
 #include <string>
 using namespace std;
